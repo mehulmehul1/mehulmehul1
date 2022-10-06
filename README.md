@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @mehulmehul1
 - 👀 I’m interested in Design, web interactions, web experiences and no code
-- 🌱 I come from a webflow background, now learning javascript, react, p5, GSAP and other awesome stuff to buuld cool web interactions and animations
+- 🌱 I come from a webflow background, now learning javascript, react, p5, GSAP and other awesome stuff to build cool web interactions and animations
 - 💞️ I’m looking to collaborate on design projects, specially in the ecommerce space
 - 📫 How to reach me - Just email at mehulsrivastava447@gmail.com
 -  I am on Instagram as https://www.instagram.com/_harpoon21/
